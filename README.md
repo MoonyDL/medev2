@@ -12,3 +12,10 @@ Pour ignorer les .o :
 Concernant le fait de bouger un fichier, je ne suis pas sûr de comprendre la question.
 L'état final du dépôt peut se suivre directement sur l'interface de github.
 Le dépot contient à cette étape : le README (ce fichier), un fichier texte : text.txt ainsi que le .gitignore.
+
+## PDF 2
+
+Ici on voit le concept de versions et de commit. Pour visualiser une  diff, il suffit de faire des changements locaux sans les commit.
+Concernant les tag, l'interface gitg permet de tagger efficacement des repos.
+
+## PDF 3
