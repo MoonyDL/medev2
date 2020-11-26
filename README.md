@@ -19,3 +19,10 @@ Ici on voit le concept de versions et de commit. Pour visualiser une  diff, il s
 Concernant les tag, l'interface gitg permet de tagger efficacement des repos.
 
 ## PDF 3
+
+Dans ce pdf, il s'agit de voir le concept de branches, pour cela on créee une nouvelle branche avec un nouveau fichier (qui simule une nouvelle feature par exemple), et l'on continue de modifier la branche principale pour se retrouver avec un conflit.
+En faisant :
+```
+git diff master AvecParellel
+```
+On observe les différences entre les deux branches.
