@@ -1,0 +1,1 @@
+Ceci est un texte visible créé de base dans la branche "parallèle".
