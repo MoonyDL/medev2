@@ -26,3 +26,8 @@ En faisant :
 git diff master AvecParellel
 ```
 On observe les différences entre les deux branches.
+Par la suite on peut "effacer" le fichier de la branche parallèle une fois revenu sur la branche principale (pour simuler le fait que l'on ne travaille pas sur cette feature). Par la suite, en effectuant un
+```
+git merge AvecParellel
+```
+Une fois cela effectué, on peut vérifier dans gitg que le merge a bien eu lieu.
